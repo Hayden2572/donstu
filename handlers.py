@@ -41,3 +41,5 @@ async def show_db(msg: Message):
     print(result)
     await msg.answer(text_result, reply_markup=kb.menu)
     print(f"Incoming text - {msg.text}")
+
+    #Здарова хуй
