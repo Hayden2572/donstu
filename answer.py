@@ -1,2 +1,2 @@
 apologize = "Прости, бро"
-say_rude = "Серёга лох"
+say_rude = "Грач лох"
