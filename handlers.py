@@ -43,3 +43,4 @@ async def show_db(msg: Message):
     print(f"Incoming text - {msg.text}")
 
     #Здарова хуй
+    # сам ты хуй
